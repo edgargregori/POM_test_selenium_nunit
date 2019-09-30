@@ -26,9 +26,8 @@
 		+ $ unzip chromedriver_linux64.zip 
 ```
 
- 	Into dir TestSeleniumNunit/
-
 ```	
+ 	Into dir TestSeleniumNunit/
  		* $ dotnet add package Selenium.WebDriver --version 3.141.0
 		* $ dotnet test && dotnet build
 		* $ dotnet add package Microsoft.NET.Test.Sdk 
@@ -36,10 +35,8 @@
 		* $ dotnet add package NUnit 
 ```
 
-	Open folder with Visual Studio Code	
-	
 ```
-
+	Open folder with Visual Studio Code	
 		- Inside VSCode:
 		- Press Ctrl+P to launch VS Code Quick Open
 		- Paste "ext install ms-vscode.csharp" into the little dialog.
