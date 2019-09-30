@@ -25,8 +25,8 @@
 		+ $ wget https://chromedriver.storage.googleapis.com/78.0.3904.11/chromedriver_linux64.zip
 		+ $ unzip chromedriver_linux64.zip 
 ```
->
-## 	Into dir TestSeleniumNunit/
+
+ 	Into dir TestSeleniumNunit/
 
 ```	
  		* $ dotnet add package Selenium.WebDriver --version 3.141.0
@@ -35,9 +35,8 @@
 		* $ dotnet add package Nunit3TestAdapter  
 		* $ dotnet add package NUnit 
 ```
->
 
-### 	Open folder with Visual Studio Code	
+	Open folder with Visual Studio Code	
 	
 ```
 
